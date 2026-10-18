@@ -1,0 +1,13 @@
+dist/
+dist
+*.md
+./*/venv
+./*/*.pdf
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.coverage
+handover.md
+handover.txt

@@ -1,0 +1,15 @@
+Author:
+    first:
+        name: Bryant Cianata
+        number: L0123038
+    second:
+        name: Fredy Tri Ramadhan
+        number: L0123057
+    third:
+        name: Kevin Marcelino Porobaten
+        number: L0123073
+    
+Institution:
+    University: Universitas Sebelas Maret
+    Faculty: Fakultas Teknologi Informasi dan Sains Data
+    Major: Program Studi Informatika
